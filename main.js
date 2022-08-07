@@ -94,7 +94,7 @@ for (let i = 0; i < M; i++) {
     );
   });
 
-  currentPosition -= (200 * laneCount) / 3;
+  currentPosition -= (230 * laneCount) / 3;
 }
 
 animate();
